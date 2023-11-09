@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![smty2018's GitHub | Stats](https://stats.quine.sh/smty2018/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=smty2018)
+[![smty2018's GitHub | Dependencies](https://stats.quine.sh/smty2018/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=smty2018)
 [![smty2018's GitHub | Languages Over Time](https://stats.quine.sh/smty2018/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=smty2018)
 [![smty2018's GitHub | Topics Over Time](https://stats.quine.sh/smty2018/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=smty2018)
 
